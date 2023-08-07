@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\CidadeServiceTest::test_example":8,"Tests\\Unit\\CidadeServiceTest::listar":8},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.001,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.043,"Tests\\Unit\\CidadeServiceTest::test_example":0.006,"Tests\\Unit\\CidadeServiceTest::listar":0.072}}
